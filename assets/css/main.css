@@ -720,8 +720,12 @@ button[disabled], html input[disabled] {
 .a a:hover .img-hover {
 	opacity: 0;
 }
+/*
+ * Achtung:
+ * img-hover.glass ändert die Hintergrundsfarbe von dem Bild der Komponistin
+ */
 .a a .img-hover.glass {
-    background: #ea766a;
+    background: #538078;
 }
 .a a .img-hover.shoes-glass {
     background: #a0c4a3;
