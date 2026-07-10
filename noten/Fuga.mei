@@ -18,13 +18,13 @@
    <music>
       <facsimile xml:id="f2kv39y1">
          <surface xml:id="sezl9vn1">
-            <graphic xml:id="gvqwpep2" target="Page-1" width="0" height="0"/>
+            <graphic xml:id="gvqwpep2" target="images/Fuge1.png" width="0" height="0"/>
          </surface>
          <surface xml:id="st482fw2">
-            <graphic xml:id="gqdurrs1" target="Page-2" width="0" height="0"/>
+            <graphic xml:id="gqdurrs1" target="images/Fuge2.png" width="0" height="0"/>
          </surface>
          <surface xml:id="sleulp91">
-            <graphic xml:id="g28k3ab" target="Page-3" width="0" height="0"/>
+            <graphic xml:id="g28k3ab" target="images/Fuge2.png" width="0" height="0"/>
          </surface>
       </facsimile>
       <body>
@@ -54,7 +54,6 @@
                   </staffGrp>
                </scoreDef>
                <section xml:id="s1">
-                  <pb />
                   <measure xml:id="mnlyz03" n="1">
                      <staff xml:id="m1s1" n="1">
                         <layer xml:id="m1s1l1" n="1">
@@ -1413,7 +1412,6 @@
                      </staff>
                      <slur xml:id="s13bvzz3" startid="#nnuix8w" endid="#n15ew1rg" />
                   </measure>
-                  <pb />
                   <measure xml:id="mgau43k" n="31">
                      <staff xml:id="m31s1" n="1">
                         <layer xml:id="m31s1l1" n="1">
