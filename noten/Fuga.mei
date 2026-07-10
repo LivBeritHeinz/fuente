@@ -16,6 +16,17 @@
       </fileDesc>
    </meiHead>
    <music>
+      <facsimile xml:id="f2kv39y1">
+         <surface xml:id="sezl9vn1">
+            <graphic xml:id="gvqwpep2" target="Page-1" width="0" height="0"/>
+         </surface>
+         <surface xml:id="st482fw2">
+            <graphic xml:id="gqdurrs1" target="Page-2" width="0" height="0"/>
+         </surface>
+         <surface xml:id="sleulp91">
+            <graphic xml:id="g28k3ab" target="Page-3" width="0" height="0"/>
+         </surface>
+      </facsimile>
       <body>
          <mdiv>
             <score>
@@ -1112,6 +1123,8 @@
                         </layer>
                      </staff>
                   </measure>
+                  <!-- Seitenumbruch nach Seite 1 in Manuskript -->
+                  <pb></pb>
                   <measure xml:id="m1k1pahx" n="25">
                      <staff xml:id="m25s1" n="1">
                         <layer xml:id="m25s1l1" n="1">
