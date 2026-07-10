@@ -2510,6 +2510,8 @@
                         </layer>
                      </staff>
                   </measure>
+                  <!-- Seitenumbruch Seite 2 -->
+                  <pb></pb>
                   <measure xml:id="m177r8c4" n="53">
                      <staff xml:id="m53s1" n="1">
                         <layer xml:id="m53s1l1" n="1">
@@ -2936,7 +2938,6 @@
                         </layer>
                      </staff>
                   </measure>
-                  <pb />
                   <measure xml:id="m1nt87bz" n="62">
                      <staff xml:id="m62s1" n="1">
                         <layer xml:id="m62s1l1" n="1">
