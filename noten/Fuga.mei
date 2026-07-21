@@ -1434,6 +1434,8 @@
                      </staff>
                      <staff xml:id="m31s2" n="2">
                         <layer xml:id="m31s2l1" n="1">
+                           <annot xml:id="anl8u491" plist="#n1nvwgg7" type="score">a statt as; vgl. Sopranstimme.</annot>
+                           <annot xml:id="arp17rl1" plist="#n1nvwgg7" type="score"/>
                            <beam xml:id="p19v545b">
                               <note xml:id="n15ew1rg" dur="16" oct="3" pname="e">
                                  <accid xml:id="r37osp2" accid.ges="f" />
@@ -1447,7 +1449,7 @@
                               </note>
                            </beam>
                            <beam xml:id="xnzjw91">
-                              <note xml:id="n1nvwgg7" dur="8" oct="2" pname="a">
+                              <note xml:id="n1nvwgg7" dur="8" oct="2" pname="a" accid="n">
                                  <accid xml:id="z1390fb8" accid.ges="f" />
                               </note>
                               <note xml:id="n1b0ig3i" dur="8" oct="3" pname="c">
