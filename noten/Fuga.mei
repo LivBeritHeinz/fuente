@@ -2777,6 +2777,8 @@
                      </staff>
                      <staff xml:id="m58s2" n="2">
                         <layer xml:id="m58s2l1" n="1">
+                           <annot xml:id="azp39yq1" plist="#n1lzp5je" type="score">b statt as; Harmonie- und Melodieverlauf spricht für diese Lesart.</annot>
+                           <annot xml:id="aiia1s6" plist="#n1lzp5je" type="score"/>
                            <beam xml:id="umd5sya">
                               <note xml:id="n1hbos7c" dur="16" oct="3" pname="b">
                                  <accid xml:id="w1fcdx4i" accid.ges="f" />
@@ -2790,7 +2792,7 @@
                               </note>
                            </beam>
                            <beam xml:id="cvwv4se">
-                              <note xml:id="n1lzp5je" dur="8" oct="3" pname="a">
+                              <note xml:id="n1lzp5je" dur="8" oct="3" pname="b">
                                  <accid xml:id="e1oj1djh" accid.ges="f" />
                               </note>
                               <note xml:id="n9sr2rw" dur="8" oct="4" pname="d">
