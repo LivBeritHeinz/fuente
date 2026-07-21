@@ -846,6 +846,8 @@
                   <measure xml:id="m15necw5" n="13">
                      <staff xml:id="m13s1" n="1">
                         <layer xml:id="m13s1l1" n="1">
+                           <annot xml:id="aimh42r1" plist="#njrod12" type="score">Im Autograph ist zusätzlich ein Kreuz notiert, was jedoch nicht zwingend erforderlich ist.</annot>
+                           <annot xml:id="atg6nrd1" plist="#njrod12" type="score"/>
                            <beam xml:id="b3gtwgn2">
                               <note xml:id="ncr4eyq" dur="16" oct="5" pname="e" stem.dir="up"/>
                               <note xml:id="n13yhuxk" dur="16" oct="5" pname="d" stem.dir="up"/>
