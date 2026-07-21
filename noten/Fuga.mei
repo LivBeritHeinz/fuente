@@ -2447,6 +2447,8 @@
                   <measure xml:id="mre1s4t" n="52">
                      <staff xml:id="m52s1" n="1">
                         <layer xml:id="m52s1l1" n="1">
+                           <annot xml:id="a7iz98i2" plist="#n1r0nwez" type="score">Notenfehler im Autograph: d statt des ist korrekt.</annot>
+                           <annot xml:id="au77jqu1" plist="#n1r0nwez" type="score"/>
                            <note xml:id="n1guk8as" dur="4" oct="5" pname="c" stem.dir="up" />
                            <beam xml:id="v11yzemz">
                               <note xml:id="nnrutm" dur="16" oct="4" pname="a" stem.dir="up">
@@ -2455,7 +2457,7 @@
                               <note xml:id="nlhazzg" dur="16" oct="5" pname="e" stem.dir="up">
                                  <accid xml:id="zypdy7q" accid.ges="f" />
                               </note>
-                              <note xml:id="n1r0nwez" dur="16" oct="5" pname="d" stem.dir="up">
+                              <note xml:id="n1r0nwez" dur="16" oct="5" pname="d" accid="n" stem.dir="up">
                                  <accid xml:id="bostjr3" accid.ges="f" />
                               </note>
                               <note xml:id="n5n6o6w" dur="16" oct="5" pname="c" stem.dir="up" />
