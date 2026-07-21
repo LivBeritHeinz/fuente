@@ -1003,6 +1003,8 @@
                      </staff>
                      <staff xml:id="m22s2" n="2">
                         <layer xml:id="m22s2l1" n="1">
+                           <annot xml:id="avymu611" plist="#neasky9" type="score">Vermutlicher Notenfehler: Durchgangsnote d statt des. Das des erzeugt mit dem d im Sopran eine verminderte Oktave, die harmonisch unplausibel erscheint.</annot>
+                           <annot xml:id="avp4we71" plist="#neasky9" type="score"/>
                            <beam xml:id="h2gih3d">
                               <note xml:id="n2oo9gb" dots="1" dur="8" oct="3" pname="e">
                                  <accid xml:id="a1a46a2j" accid="f" />
