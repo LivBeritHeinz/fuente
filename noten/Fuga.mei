@@ -2642,6 +2642,7 @@
                   <measure xml:id="m18gaq1i" n="56">
                      <staff xml:id="m56s1" n="1">
                         <layer xml:id="m56s1l1" n="1">
+                           <annot xml:id="asrxl1f" plist="#n1lysk7g" type="score">Note vermutlich d statt des; d fungiert als Leitton zu Es (Quinte von As-Dur) und ist harmonisch plausibler.</annot>
                            <beam xml:id="v1yhg1b2">
                               <note xml:id="nvgdcxl" dur="16" oct="4" pname="f" />
                               <note xml:id="nnu8adm" dur="16" oct="4" pname="e">
@@ -2654,7 +2655,7 @@
                               <note xml:id="n1ey1i0" dur="8" oct="4" pname="a" stem.dir="up">
                                  <accid xml:id="d5ibj2u" accid.ges="f" />
                               </note>
-                              <note xml:id="n1lysk7g" dur="8" oct="5" pname="d" stem.dir="up">
+                              <note xml:id="n1lysk7g" dur="8" oct="5" pname="d" accid="n" stem.dir="up">
                                  <accid xml:id="f1ox0bh3" accid.ges="f" />
                               </note>
                            </beam>
