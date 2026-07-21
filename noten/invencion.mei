@@ -200,7 +200,6 @@
                               <note xml:id="n7f431g" dur="16" pname="b" oct="4" stem.dir="up" />
                            </beam>
                            <annot xml:id="avvg9c9" plist="#n1mnbg35" type="score">Notenwert vermutlich Sechzehntelnote statt Achtelnote. Aufgrund der vorangehenden punktierten Pause sowie der Platzierung des gis über dem d ist die Lesart als Sechzehntel rhythmisch eindeutig.</annot>
-                           <annot xml:id="a6zfdil2" plist="#n1mnbg35" type="score"/>
                            <note xml:id="n9dwnjp" dur="4" pname="c" oct="5" stem.dir="up" />
                            <note xml:id="n3t9nke" dur="4" pname="d" oct="5" stem.dir="up" />
                            <rest xml:id="r1uxleh8" type="mscore-beam-none" dots="1" dur="8" />
@@ -453,10 +452,10 @@
                               </note>
                            </beam>
                            <beam>
-                              <note xml:id="n1odoxrt" dur="8" pname="f" oct="2">
+                              <note xml:id="n1odoxrt" dur="8" dots="1" pname="f" oct="2">
                                  <accid xml:id="am86okt" accid="s" />
                               </note>
-                              <note xml:id="n1i50q9w" dur="8" pname="e" oct="2">
+                              <note xml:id="n1i50q9w" dur="16" pname="e" oct="2">
                                  <accid xml:id="a1vbx6yu" accid="s" />
                               </note>
                            </beam>
