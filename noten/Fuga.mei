@@ -1166,7 +1166,7 @@
                      </staff>
                      <tie xml:id="t1aamcqs" startid="#n1k1ud00" endid="#nsd8saj" />
                   </measure>
-                  <sb xml:id="bw5buuh" />
+                  
                   <measure xml:id="mi1pkxa" n="26">
                      <staff xml:id="m26s1" n="1">
                         <layer xml:id="m26s1l1" n="1">
@@ -1356,6 +1356,7 @@
                         </layer>
                      </staff>
                   </measure>
+                  <sb></sb>
                   <measure xml:id="mz0cij7" n="30">
                      <staff xml:id="m30s1" n="1">
                         <layer xml:id="m30s1l1" n="1">
@@ -1540,6 +1541,7 @@
                         </layer>
                      </staff>
                   </measure>
+                  <sb></sb>
                   <measure xml:id="m1hj5t0f" n="34">
                      <staff xml:id="m34s1" n="1">
                         <layer xml:id="m34s1l1" n="1">
@@ -2090,6 +2092,7 @@
                         </layer>
                      </staff>
                   </measure>
+                  <sb></sb>
                   <measure xml:id="m1611eb4" n="45">
                      <staff xml:id="m45s1" n="1">
                         <layer xml:id="m45s1l1" n="1">
@@ -2887,6 +2890,7 @@
                         </layer>
                      </staff>
                   </measure>
+                  <sb></sb>
                   <measure xml:id="mab1qnz" n="61">
                      <staff xml:id="m61s1" n="1">
                         <layer xml:id="m61s1l1" n="1">
@@ -3076,6 +3080,7 @@
                         </layer>
                      </staff>
                   </measure>
+                  <sb></sb>
                   <measure xml:id="myczavp" n="65">
                      <staff xml:id="m65s1" n="1">
                         <layer xml:id="m65s1l1" n="1">
@@ -3155,7 +3160,7 @@
                         </layer>
                      </staff>
                   </measure>
-                  <sb xml:id="r1jb30dq" />
+                 
                   <measure xml:id="mpw3ip5" n="67">
                      <staff xml:id="m67s1" n="1">
                         <layer xml:id="m67s1l1" n="1">
