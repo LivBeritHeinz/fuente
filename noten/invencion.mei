@@ -726,7 +726,11 @@
                            <note xml:id="n11noo5y" dur="4" oct="3" pname="b"/>
                         </layer>
                         <layer xml:id="m11s2l2" n="2">
-                           <beam xml:id="b1124n81">
+                           <annot xml:id="ajgxcli2" plist="#n1dyzkjl" type="score">eis möglicherweise fehlerhaft; vermutlich wurde ein Auflösungszeichen ausgelassen.
+                           </annot>
+                           <annot xml:id="a157z6i1" plist="#n1dyzkjl" type="score"/>
+                           <annot xml:id="ajthro01" plist="#n1dyzkjl" type="score"/>
+<beam xml:id="b1124n81">
                               <note xml:id="nnondjj" dots="1" dur="8" oct="3" pname="e">
                                  <accid xml:id="a1tr6f8w" accid="s"/>
                               </note>
@@ -738,7 +742,7 @@
                               <note xml:id="nwq1sqk" dur="16" oct="3" pname="f">
                                  <accid xml:id="a1jn7xpi" accid="s"/>
                               </note>
-                              <note xml:id="n1dyzkjl" dur="16" oct="3" pname="e">
+                              <note xml:id="n1dyzkjl" dur="16" oct="3" pname="e" accid="n">
                                  <accid xml:id="a3drrgw1" accid.ges="s"/>
                               </note>
                               <note xml:id="n1scfrz7" dur="16" oct="3" pname="d"/>
