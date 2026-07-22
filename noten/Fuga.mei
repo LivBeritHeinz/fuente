@@ -2769,6 +2769,9 @@
                            </beam>
                         </layer>
                         <layer xml:id="m58s1l2" n="2">
+                           <annot xml:id="aul24cc" plist="#nx395my" type="score">Im Autograph steht punktierte 8tel + 8tel, vermutlich sind zwei 8tel im Alt und punktierte 8tel + 16tel im Sopran gemeint.
+                           </annot>
+                           <annot xml:id="apg4tvy1" plist="#nx395my" type="score"/>
                            <beam xml:id="hxfnk69">
                               <note xml:id="n19o3he" dur="8" oct="5" pname="d">
                                  <accid xml:id="j18ncyle" accid.ges="f" />
@@ -2779,10 +2782,10 @@
                               <note xml:id="nit25b5" dur="16" oct="5" pname="c" />
                            </beam>
                            <beam xml:id="nld3rga">
-                              <note xml:id="nx395my" dots="1" dur="8" oct="5" pname="d">
+                              <note xml:id="nx395my"  dur="8" oct="5" pname="d">
                                  <accid xml:id="p1mwejrz" accid.ges="f" />
                               </note>
-                              <note xml:id="n2oufos" dur="16" oct="4" pname="b">
+                              <note xml:id="n2oufos" dur="8" oct="4" pname="b">
                                  <accid xml:id="rwmwqr4" accid.ges="f" />
                               </note>
                            </beam>
