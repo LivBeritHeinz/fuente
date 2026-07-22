@@ -2371,9 +2371,11 @@
                            </beam>
                         </layer>
                         <layer xml:id="m50s1l2" n="2">
+                           <annot xml:id="abk8j851" plist="#d15wvu1j" type="score">Im Autograph steht 8tel+16tel, vermutlich fehlt die Punktierung der 8tel.</annot>
+                           <annot xml:id="arbb18r2" plist="#d15wvu1j" type="score"/>
                            <beam xml:id="d15wvu1j">
-                              <note xml:id="nndmf30" dur="8" oct="4" pname="g" />
-                              <note xml:id="n1nnj0yi" dur="8" oct="4" pname="f" />
+                              <note xml:id="nndmf30" dots= "1" dur="8" oct="4" pname="g" />
+                              <note xml:id="n1nnj0yi" dur="16" oct="4" pname="f" />
                            </beam>
                            <note xml:id="nfhy3nd" dur="4" oct="4" pname="e">
                               <accid xml:id="h1w0zd22" accid.ges="f" />
