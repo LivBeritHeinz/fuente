@@ -1180,6 +1180,8 @@
                            </beam>
                         </layer>
                         <layer xml:id="m26s1l2" n="2">
+                           <annot xml:id="apmflmk2" plist="#ndjzw5u" type="score">d statt des. Entsprechend der D-Dur^7-Harmonie sowie des d im Bass ist diese Lesart harmonisch schlüssiger.</annot>
+                           <annot xml:id="a2vk8ig" plist="#ndjzw5u" type="score"/>
                            <beam xml:id="w1dox624">
                               <note xml:id="nsd8saj" dur="16" oct="4" pname="a">
                                  <accid xml:id="yd4wpbd" accid.ges="f" />
@@ -1191,7 +1193,7 @@
                               </note>
                            </beam>
                            <beam xml:id="d1osqpl1">
-                              <note xml:id="ndjzw5u" dur="8" oct="4" pname="d">
+                              <note xml:id="ndjzw5u" dur="8" oct="4" pname="d" accid="n">
                                  <accid xml:id="ftov2v8" accid.ges="f" />
                               </note>
                               <note xml:id="n1suteep" dur="8" oct="4" pname="f">
@@ -1435,7 +1437,6 @@
                      <staff xml:id="m31s2" n="2">
                         <layer xml:id="m31s2l1" n="1">
                            <annot xml:id="anl8u491" plist="#n1nvwgg7" type="score">a statt as; vgl. Sopranstimme.</annot>
-                           <annot xml:id="arp17rl1" plist="#n1nvwgg7" type="score"/>
                            <beam xml:id="p19v545b">
                               <note xml:id="n15ew1rg" dur="16" oct="3" pname="e">
                                  <accid xml:id="r37osp2" accid.ges="f" />
@@ -2448,7 +2449,6 @@
                      <staff xml:id="m52s1" n="1">
                         <layer xml:id="m52s1l1" n="1">
                            <annot xml:id="a7iz98i2" plist="#n1r0nwez" type="score">Notenfehler im Autograph: d statt des ist korrekt.</annot>
-                           <annot xml:id="au77jqu1" plist="#n1r0nwez" type="score"/>
                            <note xml:id="n1guk8as" dur="4" oct="5" pname="c" stem.dir="up" />
                            <beam xml:id="v11yzemz">
                               <note xml:id="nnrutm" dur="16" oct="4" pname="a" stem.dir="up">
@@ -2778,7 +2778,6 @@
                      <staff xml:id="m58s2" n="2">
                         <layer xml:id="m58s2l1" n="1">
                            <annot xml:id="azp39yq1" plist="#n1lzp5je" type="score">b statt as; Harmonie- und Melodieverlauf spricht für diese Lesart.</annot>
-                           <annot xml:id="aiia1s6" plist="#n1lzp5je" type="score"/>
                            <beam xml:id="umd5sya">
                               <note xml:id="n1hbos7c" dur="16" oct="3" pname="b">
                                  <accid xml:id="w1fcdx4i" accid.ges="f" />
