@@ -2473,8 +2473,10 @@
                            </beam>
                         </layer>
                         <layer xml:id="m52s1l2" n="2">
+                           <annot xml:id="a6jlih91" plist="#nkvf12i" type="score">1. Ton d statt des (Harmonie D-Dur 7).</annot>
+                           <annot xml:id="arzqyxf" plist="#nkvf12i" type="score"/>
                            <beam xml:id="e5sewke">
-                              <note xml:id="nkvf12i" dur="8" oct="4" pname="d">
+                              <note xml:id="nkvf12i" dur="8" oct="4" accid="n" pname="d">
                                  <accid xml:id="g182l8aa" accid.ges="f" />
                               </note>
                               <note xml:id="n5jevf4" dur="16" oct="4" pname="f">
