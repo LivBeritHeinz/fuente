@@ -1020,7 +1020,6 @@
                      <staff xml:id="m23s1" n="1">
                         <layer xml:id="m23s1l1" n="1">
                            <annot xml:id="af9tgd6" plist="#n1wjrr54" type="score">Ton d statt des. (Harmonie ist G7, theoretisch würde beides gehen, aber mit des als tief alterierte Quinte gibt es weniger Kadenzwirkung zur nächsten 1 nach c-Moll).</annot>
-                           <annot xml:id="a6fvrk41" plist="#n1wjrr54" type="score"/>
                            <note xml:id="nd39wsw" dur="4" oct="4" pname="b" stem.dir="up">
                               <accid xml:id="arwd1hp" accid="n" />
                            </note>
@@ -1164,10 +1163,13 @@
                      </staff>
                      <tie xml:id="t1aamcqs" startid="#n1k1ud00" endid="#nsd8saj" />
                   </measure>
-                  
-                  <measure xml:id="mi1pkxa" n="26">
+                   <measure xml:id="mi1pkxa" n="26">
                      <staff xml:id="m26s1" n="1">
                         <layer xml:id="m26s1l1" n="1">
+                           <annot xml:id="a1nqmvk2" plist="#n1a518fg" type="score">Im Autograph steht 8tel+16tel, vermutlich fehlt die Punktierung der 8tel.</annot>
+                           <annot xml:id="aeyba131" plist="#n1a518fg" type="score"/>
+                           <annot xml:id="au7kpks1" plist="#nxglars" type="score">Im Autograph steht 8tel+16tel, vermutlich fehlt die Punktierung der 8tel.</annot>
+                           <annot xml:id="asplsug1" plist="#nxglars" type="score"/>
                            <beam xml:id="n17zors0">
                               <note xml:id="n18znphq" dots="1" dur="8" oct="4" pname="b" stem.dir="up">
                                  <accid xml:id="ao9cohh" accid="n" />
@@ -1175,15 +1177,15 @@
                               <note xml:id="n11s4ji5" dur="16" oct="5" pname="c" stem.dir="up" />
                            </beam>
                            <beam xml:id="rdjaysb">
-                              <note xml:id="nxglars" dur="8" oct="5" pname="c" stem.dir="up" />
-                              <note xml:id="n1a518fg" dur="8" oct="4" pname="a" stem.dir="up">
+                              <note xml:id="nxglars" dots="1" dur="8" oct="5" pname="c" stem.dir="up" />
+                              <note xml:id="n1a518fg" dur="16" oct="4" pname="a" stem.dir="up">
                                  <accid xml:id="ahahb4o" accid="n" />
                               </note>
                            </beam>
                         </layer>
                         <layer xml:id="m26s1l2" n="2">
                            <annot xml:id="apmflmk2" plist="#ndjzw5u" type="score">d statt des. Entsprechend der D-Dur^7-Harmonie sowie des d im Bass ist diese Lesart harmonisch schlüssiger.</annot>
-                           <annot xml:id="a2vk8ig" plist="#ndjzw5u" type="score"/>
+                           
                            <beam xml:id="w1dox624">
                               <note xml:id="nsd8saj" dur="16" oct="4" pname="a">
                                  <accid xml:id="yd4wpbd" accid.ges="f" />
@@ -1438,7 +1440,6 @@
                      </staff>
                      <staff xml:id="m31s2" n="2">
                         <layer xml:id="m31s2l1" n="1">
-                           <annot xml:id="anl8u491" plist="#n1nvwgg7" type="score">a statt as; vgl. Sopranstimme.</annot>
                            <beam xml:id="p19v545b">
                               <note xml:id="n15ew1rg" dur="16" oct="3" pname="e">
                                  <accid xml:id="r37osp2" accid.ges="f" />
