@@ -2967,6 +2967,8 @@
                            </beam>
                         </layer>
                         <layer xml:id="m62s1l2" n="2">
+                           <annot xml:id="aiw4pu81" plist="#g17gx130" type="score"> Im Autograph steht punktierte 8tel + zwei 16tel. Ob hier 8tel + zwei 16tel oder punktierte 8tel + zwei 32tel gemeint ist, kann nicht eindeutig bestimmt werden.</annot>
+                           <annot xml:id="aul3ol91" plist="#g17gx130" type="score"/>
                            <beam xml:id="g17gx130">
                               <note xml:id="nmmd77j" dur="8" oct="5" pname="a">
                                  <accid xml:id="iylg4vz" accid.ges="f" />
