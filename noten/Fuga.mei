@@ -1440,6 +1440,8 @@
                      </staff>
                      <staff xml:id="m31s2" n="2">
                         <layer xml:id="m31s2l1" n="1">
+                           <annot xml:id="aqfor7x1" plist="#n1nvwgg7" type="score"> a statt as; vgl. Sopranstimme.</annot>
+                           <annot xml:id="a5ajymj1" plist="#n1nvwgg7" type="score"/>
                            <beam xml:id="p19v545b">
                               <note xml:id="n15ew1rg" dur="16" oct="3" pname="e">
                                  <accid xml:id="r37osp2" accid.ges="f" />
@@ -1570,6 +1572,8 @@
                      </staff>
                      <staff xml:id="m34s2" n="2">
                         <layer xml:id="m34s2l1" n="1">
+                           <annot xml:id="acqkf6u1" plist="#nvrm6at" type="score">h als chromatische Wechselnote klingt eigenartig. Alternativ wäre b denkbar, h ist aber aufgrund von c-Moll auch möglich.</annot>
+                           <annot xml:id="am2nwv51" plist="#nvrm6at" type="score"/>
                            <beam xml:id="s1xa4ny3">
                               <note xml:id="n1wveik8" dots="1" dur="8" oct="3" pname="c" />
                               <note xml:id="nvrm6at" dur="16" oct="2" pname="b">
